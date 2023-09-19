@@ -1,6 +1,6 @@
 const Grid = () => {
   return (
-    <section className="text-center text-4xl flex capitalize w-[100vw] h-[100vh] bg-[#e5eff5]">
+    <section className="  flex h-[100vh] w-[100vw] bg-[#e5eff5] text-center text-4xl capitalize">
       grid
     </section>
   );
