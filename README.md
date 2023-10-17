@@ -10,6 +10,7 @@
 </div>
 
 ## Grid Component Site
+<a href="https://grid-component-chi.vercel.app/" style="text-decoration:none;background-color:#4CAF50;color:white;padding:10px 20px;border-radius:5px;">Grid Component</a>
 
 [Grid Component](https://grid-component-chi.vercel.app/)
 
