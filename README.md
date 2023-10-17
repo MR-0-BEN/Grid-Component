@@ -10,9 +10,31 @@
 </div>
 
 ## Grid Component Site
-<a href="https://grid-component-chi.vercel.app/" style="text-decoration:none;background-color:#4CAF50;color:white;padding:10px 20px;border-radius:5px;">Grid Component</a>
 
 [Grid Component](https://grid-component-chi.vercel.app/)
+
+<a href="https://grid-component-chi.vercel.app/" class="demo-link">Grid Component</a>
+
+<style>
+.demo-link {
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .demo-link {
+    background-color: #333; /* Dark mode background color */
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .demo-link {
+    background-color: #4CAF50; /* Light mode background color */
+  }
+}
+</style>
 
 ## Project Description
 
