@@ -1,34 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Grid Component Project README
 
-## Getting Started
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <img src="public/design/desktop-design.jpg" alt="Desktop version" width="562.5">
+    </div>
+    <div style="flex: 1;">
+        <img src="public/design/mobile-design.jpg" alt="Mobile version" width="187.5" >
+    </div>
+</div>
 
-First, run the development server:
+## Project Description
+
+The **Grid Component** project is a web application built using Next.js and utilizes the Tailwind CSS library. The primary goal of this project is to showcase your skills in working with grids and flex layouts. The project includes two versions, one designed for desktop screens and another for mobile devices.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **Grid Layout:** A responsive grid layout has been implemented to showcase your skills in creating flexible grid structures.
+
+- **Flexbox:** The project demonstrates the use of Flexbox for creating dynamic and flexible content arrangements.
+
+- **Responsive Design:** Two versions of the project are available: one optimized for desktop and the other for mobile devices, showcasing your ability to design for various screen sizes.
+
+## Technologies
+
+The project uses the following technologies:
+
+- [Next.js](https://nextjs.org/): A React framework for building server-rendered applications and websites.
+
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for quickly building custom designs.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/grid-component.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd grid-component
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+To start the development server, run:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) in your web browser to view the project.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can also build the project for production:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+npm run build
+npm run start
+```
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+If you have any questions or need further assistance with this project, feel free to contact the project owner:
 
-## Deploy on Vercel
+- Name: MR.BeN
+- Email: xmr.0.benx@gmail.com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for checking out the Grid Component project! If you have any questions or need assistance, please don't hesitate to contact us.
+
+Enjoy experimenting with grid and  layouts!
