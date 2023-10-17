@@ -13,29 +13,6 @@
 
 [Grid Component](https://grid-component-chi.vercel.app/)
 
-<a href="https://grid-component-chi.vercel.app/" class="demo-link">Grid Component</a>
-
-<style>
-.demo-link {
-  text-decoration: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  color: white;
-}
-
-@media (prefers-color-scheme: dark) {
-  .demo-link {
-    background-color: #333; /* Dark mode background color */
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  .demo-link {
-    background-color: #4CAF50; /* Light mode background color */
-  }
-}
-</style>
-
 ## Project Description
 
 The **Grid Component** project is a web application built using Next.js and utilizes the Tailwind CSS library. The primary goal of this project is to showcase your skills in working with grids and flex layouts. The project includes two versions, one designed for desktop screens and another for mobile devices.
