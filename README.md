@@ -11,7 +11,7 @@
 
 ## Grid Component Site
 
-[Grid Component](https://grid-component-chi.vercel.app/).
+[Grid Component](https://grid-component-chi.vercel.app/)
 
 ## Project Description
 
