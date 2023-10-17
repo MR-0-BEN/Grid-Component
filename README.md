@@ -9,6 +9,10 @@
     </div>
 </div>
 
+## Grid Component Site
+
+[Grid Component](https://grid-component-chi.vercel.app/).
+
 ## Project Description
 
 The **Grid Component** project is a web application built using Next.js and utilizes the Tailwind CSS library. The primary goal of this project is to showcase your skills in working with grids and flex layouts. The project includes two versions, one designed for desktop screens and another for mobile devices.
